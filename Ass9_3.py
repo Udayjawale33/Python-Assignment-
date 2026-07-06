@@ -11,6 +11,5 @@ def main():
     print("summation is:",ret)
 
 
-
 if __name__=="__main__":
     main()
