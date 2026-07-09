@@ -14,6 +14,7 @@ def main():
         print("not prime")
 
 
+    num=int(input("Enter the number :"))
         
 if __name__ == "__main__":
     main()
