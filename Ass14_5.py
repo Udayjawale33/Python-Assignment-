@@ -5,8 +5,6 @@ def main():
 
     ret = checkeven(value)  
 
-    print(ret)
-
     if(ret == True):
         
         print("its even number")

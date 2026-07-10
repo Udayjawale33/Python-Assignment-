@@ -5,8 +5,6 @@ def main():
 
     ret = checkodd(value)  
 
-    print(ret)
-
     if(ret == True):
 
         print("its odd number")
