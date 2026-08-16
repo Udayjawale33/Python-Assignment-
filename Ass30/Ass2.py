@@ -4,6 +4,7 @@
 import datetime
  
 def main():
+    
     print( "Current Date time :",datetime.datetime.now()) 
    
 if __name__ =="__main__":
