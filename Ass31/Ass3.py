@@ -48,7 +48,6 @@ def main():
     schedule.every(1).minutes.do(DirectoryScanner,DirectoryPath)
 
     print("Directory scanner started...")
-    print("Scanning every 1 minute.")
 
     while True:
         schedule.run_pending()
